@@ -1,0 +1,59 @@
+HELP.md
+target/
+.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+
+# Compiled class files and packages
+target/
+*.jar
+*.war
+
+# Log files
+*.log
+
+# IDE specific files
+.vscode/
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+
+# Maven wrapper jar
+.mvn/wrapper/maven-wrapper.jar
+
+# OS specific files
+Thumbs.db
+.DS_Store
+
+# VM crash logs
+hs_err_pid*
