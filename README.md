@@ -1,7 +1,5 @@
 # 🛒 Aplicación de Carrito de Compra con Spring Boot y Thymeleaf
 
-![Captura de Pantalla de la Aplicación](https://imgur.com/a/oKiY8QP)
-
 Este proyecto es una aplicación web completa desarrollada como parte de la práctica "Creación de una aplicación de carrito de la compra". La aplicación gestiona un catálogo de productos, permite a los usuarios añadirlos a un carrito de compra y cuenta con un panel de administración protegido para la gestión de productos.
 
 ---
@@ -67,11 +65,3 @@ Para poner en marcha el proyecto en tu máquina local, sigue estos pasos:
     * **Usuario:** `admin`
     * **Contraseña:** `admin`
 
----
-## 📸 Capturas de Pantalla
-
-**Página de Administración**
-![Panel de Administración](https://imgur.com/a/fqfZKHL)
-
-**Página del Carrito de Compra**
-![Carrito de Compra](https://imgur.com/jWC9abK)
